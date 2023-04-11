@@ -1,0 +1,4 @@
+C:/Users/Samuel/CLionProjects/Mandelbrot/cmake-build-debug/CMakeFiles/tga.dir
+C:/Users/Samuel/CLionProjects/Mandelbrot/cmake-build-debug/CMakeFiles/Mandelbrot.dir
+C:/Users/Samuel/CLionProjects/Mandelbrot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Samuel/CLionProjects/Mandelbrot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
